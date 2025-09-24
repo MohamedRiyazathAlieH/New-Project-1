@@ -176,7 +176,7 @@ header .navbar {
     }
 
     /* Responsive media query code for max width 900px */
-    @media  and (max-width: 900px) {
+    @media (max-width: 900px) {
         :root {
             --font-size-m: 1rem;
             --font-size-l: 1.3rem;
@@ -214,4 +214,4 @@ header .navbar {
             margin-top: 17px;
             font-size: var(--font-size-l);
         }
-        }
+    }
